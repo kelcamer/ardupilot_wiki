@@ -150,6 +150,8 @@ Range Sensor Check
 Check the EKF5.meaRng message in the flashlog from your flow
 sensor calibration test. Check the following:
 
+Note that in ArduPilot 3.5.5 this parameter was changed to NKF5.rng.
+
 #. There is continuous range measurement.
 #. It outputs a range on the ground that is 10cm of the expected value
    (remember that measured range will increase when you roll or pitch
