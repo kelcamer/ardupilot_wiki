@@ -121,6 +121,7 @@ Calibrating the sensor
    times. By closing one eye you will be able to keep the centre of the
    sensor stationary against the background while you do the rotation.
 #. Repeat  about the vehicle pitch axis.
+#. Note that the microSD card must be inserted into the pixhawk in order to correctly log the data.
 #. Download the data flash logs and plot the ``OF.flowX``, ``OF.bodyX``
    and ``IMU.GyrX`` data. It should look something like this:
 
